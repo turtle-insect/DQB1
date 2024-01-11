@@ -4,7 +4,7 @@
 Switch ドラゴンクエストビルダーズのセーブデータ編集Tool
 
 # Portal
-https://www.jp.square-enix.com/game/detail/dqb
+http://www.dragonquest.jp/builders
 
 # ソフト
 ■Switch  
