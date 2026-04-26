@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -14,17 +12,17 @@ using System.Windows.Shapes;
 
 namespace DQB1
 {
-	/// <summary>
-	/// ChoiceWindow.xaml の相互作用ロジック
-	/// </summary>
-	public partial class ChoiceWindow : Window
-	{
+    /// <summary>
+    /// ChoiceWindow.xaml の相互作用ロジック
+    /// </summary>
+    public partial class ChoiceWindow : Window
+    {
 		public uint ID { get; set; }
 
 		public ChoiceWindow()
-		{
-			InitializeComponent();
-		}
+        {
+            InitializeComponent();
+        }
 
 		private void Window_Loaded(object sender, RoutedEventArgs e)
 		{

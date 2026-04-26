@@ -86,7 +86,7 @@
 					</TabItem>
 				</TabControl>
 			</TabItem>
-			<TabItem Header="Repository">
+			<TabItem Header="Storage">
 				<TabControl>
 					<TabItem Header="Item">
 						<ListBox ItemsSource="{Binding RepositoryItems}">
